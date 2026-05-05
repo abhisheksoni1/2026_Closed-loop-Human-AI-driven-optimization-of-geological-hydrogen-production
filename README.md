@@ -10,9 +10,9 @@ The repository includes the following folders and dataset:
 
 __Data__: Raw and processed experimental datasets.
 
-__BO code__: Python scripts for the Bayesian optimization loop.
+__BO_code__: Python scripts for the Bayesian optimization loop.
 
-__Data analysis code__: Python scripts for data analysis to generate manuscript-level figures.
+__Data_analysis_code__: Python scripts for data analysis to generate manuscript-level figures.
 
 __SHAP-IQ code and others__: Google collab notebooks for SHAP-IQ and other codes.
 
