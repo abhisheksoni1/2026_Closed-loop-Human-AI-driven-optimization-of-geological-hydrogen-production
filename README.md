@@ -6,11 +6,12 @@ This repository contains the data, optimization code, SHAP-IQ code and data anal
 🔬 Overview
 This project demonstrates a closed-loop, high-throughput experimental approach to accelerating geological hydrogen production. By integrating Bayesian optimization with human guidance, we achieve a closed-loop system that optimizes reaction conditions for enhanced hydrogen yield.
 
-📂 Repository Structure
-/data: Raw and processed experimental datasets.
+The repository includes the following folders and dataset:
 
-/BO: Python scripts for the Bayesian optimization loop.
+**/Data: Raw and processed experimental datasets.
 
-/Data analysis: Python scripts for data analysis to generate manuscript-level figures.
+/BO code: Python scripts for the Bayesian optimization loop.
 
-/notebooks: Google collab notebooks for reproducing the figures found in the manuscript.
+/Data analysis code: Python scripts for data analysis to generate manuscript-level figures.
+
+/SHAP-IQ code and others: Google collab notebooks for SHAP-IQ and other codes.
