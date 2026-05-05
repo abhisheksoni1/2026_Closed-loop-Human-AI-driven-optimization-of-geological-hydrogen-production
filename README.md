@@ -15,3 +15,8 @@ __BO code__: Python scripts for the Bayesian optimization loop.
 __Data analysis code__: Python scripts for data analysis to generate manuscript-level figures.
 
 __SHAP-IQ code and others__: Google collab notebooks for SHAP-IQ and other codes.
+
+__License__
+The dataset in this repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt the data, even commercially, as long as you provide proper attribution.
