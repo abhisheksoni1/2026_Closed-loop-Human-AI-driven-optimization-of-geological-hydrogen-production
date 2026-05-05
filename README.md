@@ -8,7 +8,7 @@ This project demonstrates a closed-loop, high-throughput experimental approach t
 
 The repository includes the following folders and dataset:
 
-**/Data: Raw and processed experimental datasets.
+__Data__: Raw and processed experimental datasets.
 
 /BO code: Python scripts for the Bayesian optimization loop.
 
