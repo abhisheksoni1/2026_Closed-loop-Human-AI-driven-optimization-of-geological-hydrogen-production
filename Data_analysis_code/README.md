@@ -1,4 +1,4 @@
-#Geological Hydrogen Optimization - Data Visualization
+# Geological Hydrogen Optimization - Data Visualization
 
 The Python script in coollab provides a comprehensive suite of visualization tools to support the analysis and interpretation of data from closed-loop optimization experiments on geological hydrogen production. It generates publication-quality plots used in the manuscript titled:
 
@@ -14,5 +14,5 @@ The script includes multiple functions for visualizing:
 
 __Key Visualizations__
 1. Search Space Plot: Number of optimization points vs. number of variables.
-2. Hydrpgem Concentration Trends: Concentration evolution over experiments with annotations by optimization method.
+2. Hydrogen Concentration Trends: Concentration evolution over experiments with annotations by optimization method.
 3. Multi-panel Figures: Input parameters colored by hydrogen concentration.
