@@ -7,12 +7,12 @@ The Python script in coollab provides a comprehensive suite of visualization too
 __Overview__
 The script includes multiple functions for visualizing:
 
-*Search space complexity by dimensionality.
-*Trends in hydrogen concentration across experiments.
-*Relationships between operating reaction parameters and performance metrics.
-*Combined subplot panels used in figure generation.
+1. Search space complexity by dimensionality.
+2. Trends in hydrogen concentration across experiments.
+3. Relationships between operating reaction parameters and performance metrics.
+4. Combined subplot panels used in figure generation.
 
 __Key Visualizations__
-*Search Space Plot: Number of optimization points vs. number of variables.
-*Hydrpgem Concentration Trends: Concentration evolution over experiments with annotations by optimization method.
-*Multi-panel Figures: Input parameters colored by hydrogen concentration.
+1. Search Space Plot: Number of optimization points vs. number of variables.
+2. Hydrpgem Concentration Trends: Concentration evolution over experiments with annotations by optimization method.
+3. Multi-panel Figures: Input parameters colored by hydrogen concentration.
