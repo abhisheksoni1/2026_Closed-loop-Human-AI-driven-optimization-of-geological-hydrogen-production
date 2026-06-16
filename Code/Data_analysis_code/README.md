@@ -18,7 +18,7 @@ __Key Visualizations__
 2. Hydrogen Concentration Trends: Concentration evolution over experiments with annotations by optimization method.
 3. Multi-panel Figures: Input parameters colored by hydrogen concentration.
 
-## Geological Hydrogen Optimization - Data Visualization Part 2 (Variable Interaction analysis)
+## Data Visualization Part 2 (Variable Interaction analysis)
 
 This notebook includes functions for analysing the importance of respective experimental variables for Geo-H2 production, and their interaction effects. This includes 2D partial dependence plots (Figure 2D, S12, S13), SHAP (Fig. 2C) and SHAP-IQ analyses (Fig. 3), along with generation of Figures, S11-18 and S24.
 
