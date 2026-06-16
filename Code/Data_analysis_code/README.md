@@ -1,16 +1,16 @@
 # Geological Hydrogen Optimization - Data Visualization
 
-The Python script in collab provides a comprehensive suite of visualization tools to support the analysis and interpretation of data from closed-loop optimization experiments on geological hydrogen production. It generates publication-quality plots used in the manuscript titled:
+The Python script in Data_analysis_Part1.ipynb provides a comprehensive suite of visualization tools to support the analysis and interpretation of data from closed-loop optimization experiments on geological hydrogen production. It generates publication-quality plots used in the manuscript titled:
 
 "Closed-loop, Human-AI-driven-optimization-of-geological-hydrogen-production."
 
 __Overview__
 The script includes multiple functions for visualizing:
 
-1. Search space complexity by dimensionality.
-2. Trends in hydrogen concentration across experiments.
-3. Relationships between operating reaction parameters and performance metrics.
-4. Combined subplot panels used in figure generation.
+1. Search space complexity by dimensionality (Figure 1B).
+2. Trends in hydrogen concentration across experiments (Figure 2A).
+3. Relationships between operating reaction parameters and performance metrics (Figure 2B and Supplementary Figure S10).
+4. Combined subplot panels used in figure generation (Figure 2).
 
 __Key Visualizations__
 1. Search Space Plot: Number of optimization points vs. number of variables.
