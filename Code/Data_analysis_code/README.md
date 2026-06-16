@@ -1,6 +1,6 @@
 # Geological Hydrogen Optimization - Data Visualization
 
-The Python script in coollab provides a comprehensive suite of visualization tools to support the analysis and interpretation of data from closed-loop optimization experiments on geological hydrogen production. It generates publication-quality plots used in the manuscript titled:
+The Python script in collab provides a comprehensive suite of visualization tools to support the analysis and interpretation of data from closed-loop optimization experiments on geological hydrogen production. It generates publication-quality plots used in the manuscript titled:
 
 "Closed-loop, Human-AI-driven-optimization-of-geological-hydrogen-production."
 
