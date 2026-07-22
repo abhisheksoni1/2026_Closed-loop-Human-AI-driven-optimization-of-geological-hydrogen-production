@@ -1,2 +1,0 @@
-# Bayesian Optimization Module using BoTorch
-This folder contains the implementation of a Bayesian optimization framework built on top of the [BoTorch](https://botorch.org/) library. The optimizer is tailored for experimental design and parameter space exploration tasks, such as optimizing geological hydrogen production. It also contains the initialization code (in the beginning) to generate 30 random data points.
