@@ -20,7 +20,7 @@ __Key Visualizations__
 
 ## Data Visualization Part 2 (Variable Interaction Analysis)
 
-This notebook includes functions for analysing the importance of respective experimental variables for Geo-H2 production, and their interaction effects. This includes 2D partial dependence plots (Figure 2D, S12, S13), SHAP (Fig. 2C) and SHAP-IQ analyses (Fig. 3), along with generation of Figures, S11-18 and S24.
+This notebook includes functions for analysing the importance of respective experimental variables for Geo-H2 production, and their interaction effects. This includes 2D partial dependence plots (Figure 2D, S12, S13), SHAP (Fig. 2C) and SHAP-IQ analyses (Fig. 3), along with generation of Figures S11-18 and S24, and additional evaluations of the GPR model and model-derived results. 
 
 
 
